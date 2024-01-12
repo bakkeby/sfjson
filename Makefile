@@ -1,4 +1,4 @@
-# sfjson - a key-value file storage solution
+# sfjson - sloppy format JSON (a simple JSON formatter)
 # See LICENSE file for copyright and license details.
 
 include config.mk
