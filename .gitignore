@@ -1,0 +1,5 @@
+*.o
+*.txt
+*.json
+sfjson
+*.sh
